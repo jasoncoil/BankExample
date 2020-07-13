@@ -1,0 +1,11 @@
+This file explains the files located in the Sample folder containing all IntelliJ projects
+
+DESCRIPTIION: The bank example involved creating 4 classes: Bank, BankAccount, Customer, Address
+A Bank has BankAccounts, BankAccounts have Customers, and Customers have Addresses
+
+The "AccountTestProgram" Tests each class:
+-it creates a bank
+-opens up new accounts with different customers who have different addresses
+-it deposits and withdraws from these accounts
+-it prints out all the bank accounts with their respective balances
+-it prints out how much money is in the bank (total of all accounts)
